@@ -1,0 +1,29 @@
+#container {
+	background-color: blue;
+	display: inline-block;
+	width: 400px;
+	height: 400px;
+	margin: 25px;
+}
+
+#contents {
+	background-color: green;
+	display: inline-block;
+	width: 320px;
+	height: 320px;
+	margin: 40px
+}
+
+#moreno {
+	margin: 50px 10px 40px 80px;
+	border: solid 2px gray;
+	padding: 20px;
+	
+}
+
+#stuff {
+	background-color: gray;
+	border: solid 2px black;
+	margin: 25px;
+	padding: 10px;
+}
