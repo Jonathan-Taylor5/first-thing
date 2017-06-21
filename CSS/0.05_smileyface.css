@@ -33,3 +33,15 @@
 	top: 18px
 	background-color: #000000;	
 }
+
+.mouth {
+	width: 30px;
+	height: 10px;
+	border: solid 1px black;
+	border-radius: 0px 0px 45px 45px;
+	margin: 16px;
+	position: relative;
+	top: 1em;
+	left: 1em
+	background-color: black;
+}
