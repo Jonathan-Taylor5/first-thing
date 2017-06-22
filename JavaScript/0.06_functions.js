@@ -65,4 +65,5 @@ function priceOfCandyBars(price){
 	var total = (price *.07) + price;
 	console.log("Price is " + total);
 }
+
 priceOfCandyBars(1);
