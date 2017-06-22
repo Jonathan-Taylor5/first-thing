@@ -38,9 +38,10 @@ for (var x = 55; x < 101; x+=5) {
 for (var x = 0; x < 46; x+=5) {
 	console.log(x);
 }
+
 if (x = 45) {
 	console.log("Fifty");
-	for (var x = 55; x < 101; x+=5) {
-	console.log(x);
-}
+		for (var x = 55; x < 101; x+=5) {
+		console.log(x);
+	}
 }
