@@ -43,7 +43,26 @@ numberEntered(7);
 numberEntered(25);
 
 function anyNumber(x,y){
-	console.log("Sum is: ", x + y);
+	console.log("Sum is:", x + y);
 }
 
 anyNumber(3,7);
+
+function anyName(f,l){
+	console.log("My name is",f , l);
+}
+
+anyName("Jonathan","Taylor");
+
+function petNameAndBreed(name, breed){
+	var details = name + ", " + breed;
+	console.log(details);
+}
+
+petNameAndBreed("Luka","Husky");
+
+function priceOfCandyBars(price){
+	var total = (price *.07) + price;
+	console.log("Price is " + total);
+}
+priceOfCandyBars(1);
