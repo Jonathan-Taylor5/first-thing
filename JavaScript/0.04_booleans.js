@@ -14,3 +14,5 @@ console.log(2 === 2);
 console.log(2 + 1 === 3);
 
 console.log("Paulihno" !== "Juliano Ronaldo");
+// && = and
+//|| = or
