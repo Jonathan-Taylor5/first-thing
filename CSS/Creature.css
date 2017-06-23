@@ -12,38 +12,38 @@
 
 .lefteye {
 	width: 16px;
-	height: 16px;
-	border: solid 1px black;
-	border-radius: 14px;
-	z-index: 1;
-	position: fixed;
-	left: 120px;
-	top: 120px;
-	background-color: #000000;	
+    height: 16px;
+    border: solid 1px black;
+    border-radius: 14px;
+    z-index: 1;
+    position: relative;
+    left: 40px;
+    top: 45px;
+    background-color: #000000;
 }
 
 .righteye {
 	width: 16px;
-	height: 16px;
-	border: solid 1px black;
-	border-radius: 14px;
-	z-index: 1;
-	position: fixed;
-	left: 180px;
-	top: 119px;
-	background-color: #000000;	
+    height: 16px;
+    border: solid 1px black;
+    border-radius: 14px;
+    z-index: 1;
+    position: relative;
+    left: 95px;
+    top: 25px;
+    background-color: #000000;
 }
 
 .nose {
 	width: 8px;
-	height: 8px;
-	border: solid 1px black;
-	border-radius: 14px;
-	z-index: 1;
-	position: fixed;
-	left: 155px;
-	top: 151px;
-	background-color: #000000;	
+    height: 8px;
+    border: solid 1px black;
+    border-radius: 14px;
+    z-index: 1;
+    position: relative;
+    left: 71px;
+    top: 45px;
+    background-color: #000000;	
 }
 
 #facemask {
@@ -58,16 +58,6 @@
   border-radius: 45px;
 }
 
-#leftear {
-	border-top: 0px solid transparent;
-  border-left: 10px solid transparent;
-  border-bottom: 85px solid #f27209;;
-  border-right: 75px solid transparent;
-  position: absolute;
-  margin: 0px 0px 0px 0px;
-  left: 95px;
-  top: 20px;
-}
 
 #leftear {
 	border-top: 0px solid transparent;
@@ -91,4 +81,16 @@
   left: 138px;
   top: 23px;
   z-index: -1;
+}
+
+#mouth {
+	    width: 30px;
+    height: 8px;
+    border: solid 1px black;
+    border-radius: 14px;
+    z-index: 1;
+    position: relative;
+    left: 60px;
+    top: 65px;
+    background-color: #000000;
 }
