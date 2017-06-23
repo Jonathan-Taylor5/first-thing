@@ -8,5 +8,5 @@ console.log(mixedArray[1]);
 var favRestuarant = ["Cheesecake Factory", "Noodles & Company", "Bucca di Beppos"]
 console.log(favRestuarant);
 
-
+var hobbies = ["soccer","video games","anime"]
 

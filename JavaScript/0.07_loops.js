@@ -45,3 +45,12 @@ if (x = 45) {
 		console.log(x);
 	}
 }
+
+
+// Bronze
+for (var i = 0; i < 22; i+=2) {
+	console.log(i);
+}
+
+// Silber
+// Gold
